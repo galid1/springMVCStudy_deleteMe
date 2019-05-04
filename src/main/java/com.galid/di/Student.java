@@ -1,5 +1,8 @@
 package com.galid.di;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Student {
     private String name = "jjy";
 
